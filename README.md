@@ -27,5 +27,5 @@ This project addresses critical gaps in the blood donation ecosystem by providin
 
 ## 📐 System Architecture
 <p align="center">
-  <img src="./img-1.png" width="600" title="Project Screenshot">
+  <img src="./img-2.png" width="600" title="Project Screenshot">
 </p>

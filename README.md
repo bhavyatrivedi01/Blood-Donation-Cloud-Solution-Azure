@@ -26,12 +26,6 @@ This project addresses critical gaps in the blood donation ecosystem by providin
 * **Security:** Vulnerability Assessment & ITIL v4 Incident Management standards
 
 ## 📐 System Architecture
-*(Since your presentation has 22 slides, I recommend exporting slide #5 or your architecture diagram and placing it here)*
-
-```mermaid
-graph LR
-    A[Donor App] --> B(API Gateway)
-    B --> C{Cloud Services}
-    C --> D[(Real-time Database)]
-    C --> E[Mapping Service]
-    E --> F[CBS Admin Dashboard]
+<p align="center">
+  <img src="./img-1.png" width="600" title="Project Screenshot">
+</p>

@@ -1,0 +1,24 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  labels:
+    app: Django
+  name: Django
+spec:
+ replicas: 1
+ selector:
+   matchLabels:
+     app: Django
+   template:
+     metadata:
+       labels:
+         app: Django
+       spec:
+        containers:
+        - image: 
+          name: Django
+          ports:
+         - containerPort: 8000
+           name: Django
+         ImagePullSecrets:
+	 - name: acr-secret

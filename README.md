@@ -12,6 +12,11 @@ This project addresses critical gaps in the blood donation ecosystem by providin
 
 > **Research Focus:** Resolving flaws in blood donation logistics through emerging technologies and cloud-based architecture to give meaning to collected donor data.
 
+## 📐 Journey Of Blood Drop
+<p align="center">
+  <img src="./img-1.png" width="600" title="Project Screenshot">
+</p>
+
 ## ✨ Key Features
 - **📍 Real-time Donor Mapping:** Allows users to search for available donors based on blood groups with a live map interface.
 - **🙋‍♂️ Self-Serve Donor Portal:** Donors can register, express interest, and select preferred donation time windows.

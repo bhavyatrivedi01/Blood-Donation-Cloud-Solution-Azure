@@ -1,5 +1,5 @@
 # 🩸 Cloud-Based Blood Donation Management System
-### *An Applied Research Project for Saskatchewan Polytechnic & Canadian Blood Services*
+### *An Applied Research Student Showcase Project for Saskatchewan Polytechnic & Canadian Blood Services*
 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

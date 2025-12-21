@@ -1,7 +1,6 @@
 # 🩸 Cloud-Based Blood Donation Management System
 ### *An Applied Research Project for Saskatchewan Polytechnic & Canadian Blood Services*
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![DevOps](https://img.shields.io/badge/DevOps-Automation-orange?style=for-the-badge)

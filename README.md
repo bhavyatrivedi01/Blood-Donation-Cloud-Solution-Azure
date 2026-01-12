@@ -26,13 +26,8 @@ This project addresses critical gaps in the blood donation ecosystem by providin
 * **Data Analytics:** Power BI & Excel for donor data visualization
 * **Security:** Vulnerability Assessment & ITIL v4 Incident Management standards
 
-## 📐 System Architecture
-*(Since your presentation has 22 slides, I recommend exporting slide #5 or your architecture diagram and placing it here)*
+## 📐 Solution Architecture
 
-```mermaid
-graph LR
-    A[Donor App] --> B(API Gateway)
-    B --> C{Cloud Services}
-    C --> D[(Real-time Database)]
-    C --> E[Mapping Service]
-    E --> F[CBS Admin Dashboard]
+## ✨ If You want to look at the detailed presentation please clink on link below
+<https://docs.google.com/presentation/d/1GvYu1Tla3-OxuF3O7hb0IZQ_z67HAVSg/edit?usp=drive_link&ouid=106378480294396604305&rtpof=true&sd=true>
+

@@ -28,6 +28,6 @@ This project addresses critical gaps in the blood donation ecosystem by providin
 
 ## 📐 Solution Architecture
 ![App Dashboard](img-2.png)
-## ✨ If You want to look at the detailed presentation please clink on link below
+## ✨ For detailed presentation please clink on link below
 <https://docs.google.com/presentation/d/1GvYu1Tla3-OxuF3O7hb0IZQ_z67HAVSg/edit?usp=drive_link&ouid=106378480294396604305&rtpof=true&sd=true>
 
